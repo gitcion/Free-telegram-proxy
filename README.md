@@ -1,6 +1,4 @@
 # Free-telegram-proxy
-2020/04/07更新
-
 免费tg代理, MTproxy
 
 两种使用方式：
